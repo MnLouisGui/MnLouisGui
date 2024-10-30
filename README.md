@@ -8,9 +8,7 @@
 
 <!-- TITLE --> 
 <p align="center">
-  <a/>
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Ola,+Seja bem-vindo!+👋;Este+é+Mn+Louis;Prazer+em+te+conhecer!&center=true&size=30">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+bem-vindo+eu+sou+Luis+Guilherme"     alt="Typing SVG" /></a>
 </p>
 
 <hr>
