@@ -8,8 +8,8 @@
 
 <!-- TITLE --> 
 <p align="center">
-  <a>
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Argleydson+Leão;Nice+to+meet+you!&center=true&size=30">
+  <a/>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Ola,+Seja bem-vindo!+👋;Este+é+Mn+Louis;Prazer+em+te+conhecer!&center=true&size=30">
   </a>
 </p>
 
