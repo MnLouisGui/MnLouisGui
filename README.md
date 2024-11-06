@@ -48,10 +48,10 @@
 <h1 align=center>
   <div align=center>
     <a href="https://github.com/MnLouisGui/github-readme-stats">
-      <img alt="GitHub Metrics" align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MnLouisGui&theme=tokyonight&border=61dafb&hide_border=true"/>
+      <img alt="GitHub Metrics" align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=MnLouisGui&theme=tokyonight&border=61dafb&hide_border=true"/>
     </a>
     <a href="https://github.com/MnLouisGui/github-readme-stats">
-      <img alt="GitHub Streak Stats" align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MnLouisGui&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
+      <img alt="GitHub Streak Stats" align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=MnLouisGui&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
   <br><br><br><br><br>
