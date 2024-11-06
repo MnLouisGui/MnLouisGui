@@ -83,5 +83,8 @@
   <a href="https://twitter.com/Luismeiadois" target="_blank"><img src="https://img.shields.io/badge/@Luismeiadois-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
  <a href="mailto:luisguilhermesilvacosta58@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/-Luismeiadois@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:argleydsondev@gmail.com" alt="Gmail"></a>
  </h3>
+ <div align="center">
+  <img src="https://profile-counter.glitch.me/MnLouisGui/count.svg?"  />
+</div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArgLD/ArgLD/output/github-contribution-grid-snake.svg)
