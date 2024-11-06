@@ -35,7 +35,7 @@
      <code><img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"></code>
   <br><br>
      <code><img aligin='center' alt='VSCODE' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-  code><img aligin='center' alt='VSCODE' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/vscode-original.svg" /></code>
+  <code><img aligin='center' alt='PYTHON' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
      <code><img aligin='center' alt='TRELLO' height='30' width='40'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /></code>
      <code><img aligin='center' alt='SLACK' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /></code>  
 </h3>
