@@ -16,7 +16,7 @@
 <!-- ABOUT ME -->
 <!-- 💬 About me: -->
 <h3 align="center">
-  <i>Passionate about technology, I became a web developer because I believe in the incredible transformations that technology can bring to people by solving complex problems in a simple, scalable and elegant way!</i>
+  <i>Apaixonado por tecnologia, me tornei desenvolvedor web porque acredito nas incríveis transformações que a tecnologia pode trazer para as pessoas ao resolver problemas complexos de forma simples, escalável e elegante!</i>
 </h3>
 
 <hr>
@@ -76,7 +76,7 @@
 </h3>
   
 <h3 align="left">
-  <i>📫 Follow me around the web:</i><br>
+  <i>📫 Meus contatos</i><br>
   <a href="https://www.linkedin.com/in/argleydson" target="_blank"><img src="https://img.shields.io/badge/Argleydson-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/xleaox/" target="_blank"><img src="https://img.shields.io/badge/@xleaox-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/ArgleydsonLeao" target="_blank"><img src="https://img.shields.io/badge/@ArgleydsonLeao-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
