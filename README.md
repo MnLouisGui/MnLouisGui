@@ -77,11 +77,10 @@
   
 <h3 align="left">
   <i>📫 Meus contatos</i><br>
-  <a href="https://www.linkedin.com/in/argleydson" target="_blank"><img src="https://img.shields.io/badge/Argleydson-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/xleaox/" target="_blank"><img src="https://img.shields.io/badge/@xleaox-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://twitter.com/ArgleydsonLeao" target="_blank"><img src="https://img.shields.io/badge/@ArgleydsonLeao-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.facebook.com/xLEAOx" target="_blank"><img src="https://img.shields.io/badge/-@xLEAOx-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/xLEAOx" alt="Facebook"></a>  
- <a href="mailto:argleydsondev@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/-argleydsondev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:argleydsondev@gmail.com" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/LuisGui" target="_blank"><img src="https://img.shields.io/badge/Argleydson-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/Luismeiadois/" target="_blank"><img src="https://img.shields.io/badge/@xleaox-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://twitter.com/Luismeiadois" target="_blank"><img src="https://img.shields.io/badge/@ArgleydsonLeao-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+ <a href="mailto:luisguilhermesilvacosta58@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/-argleydsondev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:argleydsondev@gmail.com" alt="Gmail"></a>
  </h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArgLD/ArgLD/output/github-contribution-grid-snake.svg)
