@@ -73,10 +73,10 @@
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArgLD)   -->
 
   <h3>
-  <img align="right" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+  <img align="center" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 </h3>
   
-<h3 align="left">
+<h3 align="center">
   <i>📫 Meus contatos</i><br>
   <a href="https://www.linkedin.com/in/LuisGui" target="_blank"><img src="https://img.shields.io/badge/Luismeiadois-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/Luismeiadois/" target="_blank"><img src="https://img.shields.io/badge/@Luismeiadois-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
