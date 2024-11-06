@@ -55,7 +55,7 @@
   </div>
   <br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/MnLouisGu/github-readme-stats">
+    <a href="https://github.com/MnLouisGui/github-readme-stats">
       <img alt="Top Langs" align="center" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MnLouisGui&hide=TeX&layout=compact&theme=tokyonight&border_color=61dafb&hide_border=true" />
     </a>
   </div>
@@ -83,7 +83,5 @@
   <a href="https://www.facebook.com/xLEAOx" target="_blank"><img src="https://img.shields.io/badge/-@xLEAOx-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/xLEAOx" alt="Facebook"></a>  
  <a href="mailto:argleydsondev@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/-argleydsondev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:argleydsondev@gmail.com" alt="Gmail"></a>
  </h3>
-
-![Profile views](https://gpvc.arturio.dev/ArgLD)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ArgLD/ArgLD/output/github-contribution-grid-snake.svg)
